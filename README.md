@@ -7,7 +7,7 @@
 ---
 
 ## AIM
-To study and implement the **NumPy** (Numerical Python) library, understand its core functionalities, and perform various array creations, inspections, and numerical operations.
+Study of **NumPy** Library
 
 ---
 
